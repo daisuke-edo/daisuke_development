@@ -1,0 +1,9 @@
+edoward:tournamaker DaisukeEdo$ git status
+edoward:tournamaker DaisukeEdo$ git pull origin master
+edoward:tournamaker DaisukeEdo$ git branch TM-92
+edoward:tournamaker DaisukeEdo$ git branch -a
+edoward:tournamaker DaisukeEdo$ git checkout TM-92
+edoward:tournamaker DaisukeEdo$ git add .
+edoward:tournamaker DaisukeEdo$ git commit -m "TM-92 add rspec to gemfile"
+edoward:tournamaker DaisukeEdo$ git push origin TM-92
+

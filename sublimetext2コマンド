@@ -1,0 +1,12 @@
+command+X:一行削除(選ばなければその行削除)
+command+C:一行コピー(選ばなければその行コピー)
+command+/:コメントアウト
+command+[]:tab(その場でできる。複数行も可能)
+command+L:一行選択
+command+shift+D:その行を下にコピー
+command+shift+P:コマンドプロンプト
+command+shift+F:文字検索
+
+
+
+
